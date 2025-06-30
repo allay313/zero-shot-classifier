@@ -40,7 +40,7 @@ This app uses **zero-shot learning** to match your input with the most appropria
 ---
 
 ## 🚀 Live Demo
-👉 Try it here: [Zero-Shot Text Classifier on Hugging Face Spaces](https://huggingface.co/spaces/your-username/your-space-name)
+👉 Try it here: [Zero-Shot Text Classifier on Hugging Face Spaces](https://huggingface.co/spaces/PaulSouvik/zero-shot-classifier)
 
 ---
 
